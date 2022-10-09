@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohith</h1>
-<h3 align="center">Cybersecurity Graduate Student @ University of Tampa</h3>
+<h3 align="center">Cybersecurity Graduate Student @ University of Tampa <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://search.brave.com/images?q=utampa+logo&img=0" alt="aws" width="40" height="40"/> </a> </h3>
 
 - 🔭 I’m currently working on **Provanence**
 
