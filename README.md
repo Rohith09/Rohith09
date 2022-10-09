@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rohith</h1>
-<h3 align="center">Cybersecurity Graduate Student @ University of Tampa <a href="https://search.brave.com/images?q=utampa+logo&img=0" target="_blank" rel="noreferrer"> <img src="https://search.brave.com/images?q=utampa+logo&img=0" alt="aws" width="40" height="40"/> </a> </h3>
+<h1 align="center">Hello World! 👋, I'm Rohith</h1>
+<h3 align="center">Cybersecurity Graduate Student @ University of Tampa </h3>
 
 - 🔭 I’m currently working on **Provanence**
 
-- 🌱 I’m currently learning **Python, Cloud Security, Incident Response, Penetration Testing, End Point Security**
+- 🌱 I’m currently learning **Python, Cloud Security, Penetration Testing**
 
 - 💬 Ask me about **Cloud Security, DevSecOps**
 
 - 📫 How to reach me **kandirohith09@gmail.com**
 
+- 📜 I'm **COMP Tia Security+ , AWS Certified Cloud Practioner, Microsoft Azure Certified **
+ 
 - ⚡ Fun fact **I love cooking**
 
 <h3 align="left">Connect with me:</h3>
