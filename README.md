@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kandirohith09@gmail.com**
 
-- 📜 I'm  <a href="https://www.credly.com/badges/6cb16a39-5ca3-481b-9c41-838847215dfd/public_url"/> COMP Tia Security+ , <a href="https://www.credly.com/badges/fdb0a82d-3802-473e-8ad5-2056a582d40d/public_url"/> AWS Certified Cloud Practioner **and** <a href="https://www.credly.com/badges/ffd2e2cc-a5e3-45ef-b9c4-4776caf620ca/public_url"/> Microsoft Azure Certified
+- 📜 <a href="https://www.credly.com/badges/6cb16a39-5ca3-481b-9c41-838847215dfd/public_url"/> COMP Tia Security+  <a href="https://www.credly.com/badges/fdb0a82d-3802-473e-8ad5-2056a582d40d/public_url"/> AWS Certified Cloud Practioner  <a href="https://www.credly.com/badges/ffd2e2cc-a5e3-45ef-b9c4-4776caf620ca/public_url"/> Microsoft Azure Certified
  
 - ⚡ Fun fact **I love cooking**
 
