@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kandirohith09@gmail.com**
 
-- 📜 I'm **COMP Tia Security+, AWS Certified Cloud Practioner and Microsoft Azure Certified**
+- 📜 I'm **COMP Tia Security+ <a href="https://www.credly.com/badges/6cb16a39-5ca3-481b-9c41-838847215dfd/public_url" </a>, AWS Certified Cloud Practioner and Microsoft Azure Certified**
  
 - ⚡ Fun fact **I love cooking**
 
