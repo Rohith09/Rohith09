@@ -26,8 +26,6 @@ Cloud Security Architecture · Zero Trust · IAM & Access Governance · Infrastr
 | CompTIA Security+ | CompTIA |
 | Microsoft Azure Fundamentals (AZ-900) | Microsoft |
 
-🎯 Currently preparing for **AWS Certified Solutions Architect – Professional (SAP-C02)**
-
 ### 🎓 Education & Community
 
 - M.S. in Cybersecurity — University of Tampa
@@ -40,7 +38,3 @@ Cloud Security Architecture · Zero Trust · IAM & Access Governance · Infrastr
 **Security & IaC:** CloudFormation · Terraform · Checkov · AWS WAF · Secrets Manager · Systems Manager
 
 **Languages & Automation:** Python · Bash · GitHub Actions · Docker · Git
-
-### ⚡ Fun fact
-
-I still love cooking — some things don't need a rewrite. 🍳
