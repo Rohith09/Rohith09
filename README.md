@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rohith 👋</h1>
-<h3 align="center">Senior Cloud Security Engineer | AWS Security Specialty · Solutions Architect | Zero Trust · Multi-Cloud · DevSecOps</h3>
+<h3 align="center">Senior Cloud Engineer | AWS Security Specialty · Solutions Architect | Zero Trust · Multi-Cloud · DevSecOps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rohithkandi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
